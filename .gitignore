@@ -1,0 +1,19 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Documents
+/FrameworkThree.BusinessLayer/bin/Debug/netcoreapp1.1
+/FrameworkThree.BusinessLayer/obj
+/FrameworkThree.Domain/bin/Debug/netcoreapp1.1
+/FrameworkThree.Domain/obj
+/FrameworkThree.Model/bin/Debug/netstandard1.4
+/FrameworkThree.Model/obj
+/FrameworkThree.Repository/bin/Debug/netcoreapp1.1
+/FrameworkThree.Repository/obj
+/FrameworkThree.Service/bin/Debug/netcoreapp1.1
+/FrameworkThree.Service/obj/Debug/netcoreapp1.1
+/FrameworkThree.Service/obj
+/FrameworkThree.Web/bin/Debug/netcoreapp1.1
+/FrameworkThree.Web/obj
