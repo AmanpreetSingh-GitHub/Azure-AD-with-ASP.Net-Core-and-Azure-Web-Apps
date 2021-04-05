@@ -1,4 +1,4 @@
-# Integrating Azure Active Directory authentication in ASP.NET Core Web Application using Azure WebApps #
+# Integrating Azure Active Directory authentication in ASP.NET Core Web Application using Azure WebApps # 
 
 ### Introduction ###
 
