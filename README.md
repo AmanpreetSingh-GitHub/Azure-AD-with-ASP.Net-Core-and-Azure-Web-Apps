@@ -7,7 +7,7 @@ This article covers following things –
 - Creating FrameworkThree framework using <a href="https://github.com/AmanpreetSingh-GitHub/Architecture-FrameworkTwo">FrameworkTwo</a>
  framework (n-layered Architecture using ASP.NET Core Web Application, Web API, Entity Framework Core, Generic Repository and Unit-of-Work)
 - Adding Save functionality to the framework
-- Integrating Azure Active Directory authentication in the framework
+- Integrating Azure Active Directory authentication in the framework 
 	- Registering new Apps with Azure AD for FrameworkThree.Service and FrameworkThree.Web projects
 	- Configuring FrameworkThree solution to work with Azure AD Apps for authentication
 
